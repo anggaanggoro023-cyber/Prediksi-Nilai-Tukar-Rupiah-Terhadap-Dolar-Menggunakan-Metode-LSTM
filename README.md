@@ -4,11 +4,11 @@ Website Streamlit yang mengikuti diagram UML Kelompok 10 (use case, activity, se
 
 ## Anggota Tim
 
-Kelompok 10, Rekayasa Perangkat Lunak:
+## Anggota Kelompok 10 (RPL)
 
-- Fikry Maulana Achmad — feature/entity dan feature/antarmuka-ui
-- Tri Anggoro — feature/controller
-- Wildan Fadhil Nadhif — feature/tampilan dan feature/sumber-data
+- **Fikry Maulana Achmad** (20234501718) — `feature/entity` (`entity.py`), `feature/antarmuka-ui` (`ui.py`)
+- **Tri Anggoro** (202343501772) — `feature/controller` (`controller.py`)
+- **Wildan Fadhil Nadhif** (203343501768) — `feature/tampilan` (`tema.py`, `grafik.py`), `feature/sumber-data` (`sumber.py`)
 
 ## Cara menjalankan
 
