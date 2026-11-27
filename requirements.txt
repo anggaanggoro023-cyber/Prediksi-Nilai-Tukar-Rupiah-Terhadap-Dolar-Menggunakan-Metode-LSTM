@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas
+numpy
+matplotlib
+tensorflow>=2.16
+yfinance
+openpyxl

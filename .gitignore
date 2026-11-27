@@ -1,0 +1,23 @@
+# Berkas hasil kompilasi/cache Python
+__pycache__/
+*.pyc
+
+# Lingkungan virtual
+.venv/
+venv/
+
+# Konfigurasi IDE
+.idea/
+.vscode/
+
+# Berkas konfigurasi sensitif
+.env
+secrets.toml
+
+# Data, model, dan hasil yang dibuat aplikasi (dibuat ulang saat dipakai)
+storage/*
+!storage/.gitkeep
+
+# Berkas sementara sistem operasi
+.DS_Store
+Thumbs.db
