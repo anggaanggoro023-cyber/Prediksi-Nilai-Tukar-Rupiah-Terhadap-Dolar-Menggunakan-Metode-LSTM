@@ -2,8 +2,6 @@
 
 Website Streamlit yang mengikuti diagram UML Kelompok 10 (use case, activity, sequence, state machine, class, object).
 
-## Anggota Tim
-
 ## Anggota Kelompok 10 (RPL)
 
 - **Fikry Maulana Achmad** (20234501718) — `feature/entity` (`entity.py`), `feature/antarmuka-ui` (`ui.py`)
